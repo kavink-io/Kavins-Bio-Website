@@ -156,7 +156,7 @@ export const Achievements: React.FC = () => {
                         onClick={() => setSelectedCertificate(item)}
                         className="text-xs text-blue-400 hover:text-blue-300 font-mono flex items-center gap-1 cursor-pointer"
                       >
-                        <span>Certificate Details</span>
+                        <span>Geotag Photo</span>
                         <ExternalLink className="w-3 h-3" />
                       </button>
                     </div>
