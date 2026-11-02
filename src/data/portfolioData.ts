@@ -22,7 +22,7 @@ export const portfolioData: PortfolioData = {
       'AI/ML Research & Project Collaborations',
       'Hackathons & Open-Source',
     ],
-    avatarUrl: '/profile-placeholder.svg',
+    avatarUrl: '/profile-placeholder.jpeg',
     resumeUrl: '/resume.pdf',
   },
 
@@ -35,15 +35,15 @@ export const portfolioData: PortfolioData = {
     },
     {
       platform: 'LinkedIn',
-      url: 'https://linkedin.com/in/your-username', // Replace with your actual LinkedIn profile URL
+      url: 'https://linkedin.com/in/kavink01', // Replace with your actual LinkedIn profile URL
       label: 'LinkedIn Profile',
-      handle: 'linkedin.com/in/your-username',
+      handle: 'linkedin.com/in/kavink01',
     },
     {
       platform: 'Email',
-      url: 'mailto:kavin.developer.contact@example.com', // Replace with your primary email
+      url: 'mailto:kavinvijay1974@gmail.com', // Replace with your primary email
       label: 'Personal Email',
-      handle: 'kavin.developer.contact@example.com',
+      handle: 'kavinvijay1974@gmail.com',
     },
   ],
 
@@ -376,7 +376,7 @@ export const portfolioData: PortfolioData = {
     location: 'Chennai, Tamil Nadu, India',
     period: '2023 – 2027 (Expected Graduation)',
     status: 'Currently Pursuing - 3rd Year',
-    cgpa: 'Update in portfolioData.ts', // Configurable field
+    cgpa: '7.41', // Configurable field
     cgpaMax: '10.0',
     coursework: [
       'Data Structures & Algorithms',

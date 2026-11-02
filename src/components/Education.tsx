@@ -83,13 +83,13 @@ export const Education: React.FC = () => {
                   <div className="text-xs text-slate-400 font-mono">Academic Performance / CGPA</div>
                   <div className="text-sm font-bold text-white flex items-center gap-2">
                     <span>{education.cgpa}</span>
-                    <button
+                    {/* <button
                       onClick={() => setShowConfigHint(!showConfigHint)}
                       className="text-[10px] text-blue-400 hover:text-blue-300 font-mono inline-flex items-center gap-1 cursor-pointer"
                     >
                       <Edit3 className="w-3 h-3" />
                       <span>{showConfigHint ? 'Hide Config Note' : 'Update CGPA'}</span>
-                    </button>
+                    </button> */}
                   </div>
                 </div>
               </div>
